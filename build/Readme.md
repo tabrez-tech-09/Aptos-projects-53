@@ -1,3 +1,7 @@
+contract address : 0xf2661344fe0b7b85a4f0c1d3ca487d16cb8000de054eab5563fd1cd046a38e44
+screenshot : ![image](https://github.com/user-attachments/assets/bbc9097a-19f1-428e-973b-d39fce5dc2bd)
+
+
 # SkillValidationPlatform Smart Contract
 
 ## Vision
